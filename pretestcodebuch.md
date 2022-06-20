@@ -13,7 +13,7 @@ from:	definiert den Sender der Spende
 
 to: 	definiert den Empfänger der Spende 
 
-weight:	Höhe der Spende									
+weight:	Höhe der Spende	(gerundet :1000)								
 										
 	
 	
@@ -30,5 +30,5 @@ PLZ:	Registrierte Postleitzahl des Spenders
 
 Ort:	Registrierter Wohnort des Spenders		
 
-type:	Art des Spenders z.B. natürliche Person (p) oder Unternehmen (u)
+type:	Art des Spenders z.B. natürliche Person (p), Unternehmen (u) oder Partei (party)
 
